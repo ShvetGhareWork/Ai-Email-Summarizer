@@ -357,5 +357,4 @@ If you encounter any issues or have questions:
 ---
 
 **⭐ If you found this project helpful, please give it a star on GitHub!**
-#   A i - E m a i l - S u m m a r i z e r  
- 
+#

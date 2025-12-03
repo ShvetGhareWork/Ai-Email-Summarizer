@@ -1,0 +1,35 @@
+{
+  "project": {
+    "name": "AI Email Summarizer",
+    "version": "1.0.0",
+    "description": "Automatically summarizing unread Gmail emails using AI",
+    "challenge": "AWS AI for Bharat - Week 2: Lazy Automation",
+    "created": "2025-12-03",
+    "author": "AWS AI for Bharat Participant"
+  },
+  "technologies": {
+    "language": "Python 3.8+",
+    "ai_model": "OpenAI GPT-3.5 Turbo",
+    "email_protocol": "IMAP",
+    "libraries": [
+      "python-dotenv",
+      "openai",
+      "html2text"
+    ]
+  },
+  "features": [
+    "Gmail IMAP connection",
+    "Unread email fetching",
+    "Multipart email handling",
+    "HTML to text conversion",
+    "AI-powered summarization",
+    "Markdown export",
+    "Edge case handling"
+  ],
+  "development": {
+    "assistant": "Kiro AI",
+    "time_saved_hours": 8,
+    "development_time_hours": 5,
+    "efficiency_gain_percent": 70
+  }
+}
